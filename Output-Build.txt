@@ -1,0 +1,17 @@
+﻿Build started at 10:32 PM...
+1>------ Build started: Project: flappybird, Configuration: Debug x64 ------
+1>flappybird.cpp
+1>C:\Users\Dell\source\repos\flappybird\flappybird.cpp(177,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>C:\Users\Dell\source\repos\flappybird\flappybird.cpp(179,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>C:\Users\Dell\source\repos\flappybird\flappybird.cpp(183,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>C:\Users\Dell\source\repos\flappybird\flappybird.cpp(185,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>C:\Users\Dell\source\repos\flappybird\flappybird.cpp(190,23): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+1>C:\Users\Dell\source\repos\flappybird\flappybird.cpp(190,23): warning C4244:         with
+1>C:\Users\Dell\source\repos\flappybird\flappybird.cpp(190,23): warning C4244:         [
+1>C:\Users\Dell\source\repos\flappybird\flappybird.cpp(190,23): warning C4244:             T=float
+1>C:\Users\Dell\source\repos\flappybird\flappybird.cpp(190,23): warning C4244:         ]
+1>C:\Users\Dell\source\repos\flappybird\flappybird.cpp(191,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>flappybird.vcxproj -> C:\Users\Dell\source\repos\flappybird\x64\Debug\flappybird.exe
+1>Done building project "flappybird.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 10:32 PM and took 01.255 seconds ==========
